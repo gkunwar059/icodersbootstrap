@@ -1,0 +1,21 @@
+footer{
+    background-color: rgb( 41, 40, 38);
+    height: 80px;
+    color: aliceblue;
+}
+footer.p{
+    color: aliceblue;
+    margin-top: 7px;
+}
+
+a{
+    background-color: rgb(71, 94, 94);
+    
+}
+.ganesh{
+    text-align: center;
+}
+.abc{
+    background-color: antiquewhite;
+    clear: both;
+}
